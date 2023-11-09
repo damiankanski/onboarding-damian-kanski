@@ -1,0 +1,10 @@
+{
+    "gitdoc.enabled": true,
+    "files.associations": {
+        "string_view": "c",
+        "string.h": "c",
+        "typeinfo": "c",
+        "stdio.h": "c",
+        "random": "c"
+    }
+}
