@@ -1,0 +1,39 @@
+sort1 uses: TODO Sort bubule
+Best time in  sorted data, the woorst time in random date fail
+How do you know?: TODO
+
+    random5000 = 0m0.064s
+    random10000 = 0m0.358s
+
+    reversed5000 = 0m0.074s
+    reversed10000 = 0m0.275s
+
+    sorted5000 = 0m0.042s
+    soretd10000 = 0m0.079s
+
+sort2 uses: TODO Marge
+
+
+How do you know?: TODO
+
+    random5000 = 0m0.037s
+    random10000 = 0m0.095s
+
+    reversed5000 = 0m0.074s
+    reversed10000 = 0m0.077s
+
+    sorted5000 = 0m0.077s
+    soretd10000 = 0m0.075s
+
+sort3 uses: TODO Selection
+Long time sorting in files with 100000 data
+How do you know?: TODO
+
+    random5000 = 0m0.048s
+    random10000 = 0m0.126s
+
+    reversed5000 = 0m0.052s
+    reversed10000 = 0m0.162s
+
+    sorted5000 = 0m0.052s
+    soretd10000 = 0m0.146s
